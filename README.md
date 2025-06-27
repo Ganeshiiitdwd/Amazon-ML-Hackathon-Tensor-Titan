@@ -3,12 +3,12 @@ Amazon ML Hackathon 2024
 
 # Scalable Text Extraction and Entity Mapping using LLM
 
-## Overview
+## OVERVIEW
 
 This project was developed as part of the **Amazon ML Hackathon 2024**, where our team participated in a national-level competition involving 20,000 teams from top institutions like IITs, NITs, IIITs, and other reputed national institutes. Our solution ranked **520th** out of the 20,000 teams. This hackathon focused on solving real-world problems using Machine Learning (ML) techniques.
 ![Hackathon Rank](./Result.jpeg)
 
-Our project tackled the challenge of efficient and scalable **text extraction** from images using **EasyOCR** combined with GPU acceleration. Once extracted, the text underwent further processing for **entity mapping** using a **Large Language Model (LLM)**. The final output was a structured dataset identifying key entities such as dimensions, weight, voltage, and other attributes, mapped to their respective units.
+The project tackled the challenge of efficient and scalable **text extraction** from images using **EasyOCR** combined with GPU acceleration. Once extracted, the text underwent further processing for **entity mapping** using a **Large Language Model (LLM)**. The final output was a structured dataset identifying key entities such as dimensions, weight, voltage, and other attributes, mapped to their respective units.
 
 ## Team
 
